@@ -1,0 +1,12 @@
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.AssemblyInfoInputs.cache
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.AssemblyInfo.cs
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.csproj.CoreCompileInputs.cache
+C:\OPG\OpgWebshop.Domain\bin\Debug\net9.0\OpgWebshop.Domain.deps.json
+C:\OPG\OpgWebshop.Domain\bin\Debug\net9.0\OpgWebshop.Domain.dll
+C:\OPG\OpgWebshop.Domain\bin\Debug\net9.0\OpgWebshop.Domain.pdb
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.dll
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\refint\OpgWebshop.Domain.dll
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.pdb
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\ref\OpgWebshop.Domain.dll
+C:\OPG\OpgWebshop.Domain\obj\Debug\net9.0\OpgWebshop.Domain.sourcelink.json
